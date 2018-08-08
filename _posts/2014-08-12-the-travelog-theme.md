@@ -3,8 +3,11 @@ layout: post
 title:  "The Travelog Theme"
 date:   2014-08-12 17:39:55
 categories: auckland, new-zealand
-location: Auckland, New Zealand
-tags: auckland new-zealand
+location:
+    names:
+        - Auckland, Spark Arena
+        - New Zealand Maritime Museum
+    zoom: 13
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright simple.
