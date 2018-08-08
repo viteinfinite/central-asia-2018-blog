@@ -1,13 +1,13 @@
 # Site settings
 title: 2018, Central Asia
-subtitle: "Journal of Simone and Prisca"
+subtitle: "A journal of a journey"
 email: 
-description: "This is a short blog of our journey through China, Xinjiang, Kyrgyzstan and Uzbekistan."
+description: "A short journal of Prisca’s and Simone’s journey through China, Xinjiang, Kyrgyzstan and Uzbekistan."
 baseurl: "/"
 url: "http://centralasia2018.viteinfinite.com"
 twitter_username: "viteinfinite"
 github_username:  "viteinfinite"
-instagram_username: "viteinfinite"
+instagram_username: "ca_pris"
 
 # Build settings
 markdown: kramdown
