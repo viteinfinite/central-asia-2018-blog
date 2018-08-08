@@ -1,17 +1,19 @@
 <section class="post">
-    <div class="post-header post-header--dw">
-        <a href="{{ site.baseurl }}{{ include.post.url }}"><h3 class="post-header-title">{{ include.post.title }}</h3></a>
-        <h4 class="post-header-date"><span class="ordinal">{{ include.post.date | date: "%e" }}</span> {{ include.post.date | date: "%B &#8217;%y" }}</h4>
-    </div>
-    <div class="post-body">
-        {{ include.content }}
+    <div class="post-header-wrapper">
+        <div class="post-header post-header--dw">
+            <a href="{{ site.baseurl }}{{ include.post.url }}"><h3 class="post-header-title">{{ include.post.title }}</h3></a>
+            <h4 class="post-header-date"><span class="ordinal">{{ include.post.date | date: "%e" }}</span> {{ include.post.date | date: "%B &#8217;%y" }}</h4>
+        </div>
         {% if include.post.location.names.first %} 
-        <div class="map">
+        <div class="post-header-map">
             <a href="https://www.google.com/maps/search/?api=1&query={{include.post.location.names.first}}", target="_blank">
-                <img width="300" height="200" src="https://maps.googleapis.com/maps/api/staticmap?{% for location in include.post.location.names %}{% if forloop.first %}center={{location}}&markers=color:blue%7C{{location}}{% else %}&markers=color:blue%7C{{location}}{% endif %}{% endfor %}&zoom={% if include.post.location.zoom %}{{include.post.location.zoom}}{% else %}13{% endif %}&size=300x200&scale=2&sensor=false&visual_refresh=true&key={{site.maps.apiKey}}&style={{site.maps.style}}" alt="">
+                <div class="map-image" style="background-image: url('https://maps.googleapis.com/maps/api/staticmap?{% for location in include.post.location.names %}{% if forloop.first %}center={{location}}&markers=color:blue%7C{{location}}{% else %}&markers=color:blue%7C{{location}}{% endif %}{% endfor %}&zoom={% if include.post.location.zoom %}{{include.post.location.zoom}}{% else %}13{% endif %}&size=900x200&scale=2&sensor=false&visual_refresh=true&key={{site.maps.apiKey}}&style={{site.maps.style}}')"></div>
             </a>
         </div>
         {% endif %}
+    </div>
+    <div class="post-body">
+        {{ include.content }}
     </div>
     <div class="post-footer">
         <ul class="post-footer-tags">

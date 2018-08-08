@@ -8,56 +8,61 @@
         p { line-height: 18px; }
     }
 
+    .post-header-wrapper {
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    @media only screen and (max-width : 900px) {
+        .post-header-wrapper {
+            flex-wrap: wrap;
+        }
+    }
+
     .post-header {
         padding-left: 35px;
         min-height: $post-header-height;
         background-repeat: no-repeat;
-        background-position: left center;
+        background-position: 0 5px;
         background-color: transparent;
-        margin-bottom: 15px;
+        flex-shrink: 1;
     }
 
-    .post-header--dw,
-    .post-header--ar {
+    @media only screen and (max-width : 900px) {
+        .post-header {
+            margin-bottom: 15px;
+        }
+    }
+
+    .post-header--dw {
         background-size: 24px;
     }
 
     .post-header--dw {
         // Non-retina device
-        background-image: url($watch-1);
+        background-image: url($post-head-symbol-1);
 
         // Retina @2x device
         @media only screen and (-webkit-min-device-pixel-ratio: 1.2), only screen and (min--moz-device-pixel-ratio: 1.2), only screen and (-o-min-device-pixel-ratio: 5/4), only screen and (min-device-pixel-ratio: 1.2), only screen and (min-resolution: 120dpi), only screen and (min-resolution: 1.2dppx) {
-            background-image: url($watch-1-2x);
+            background-image: url($post-head-symbol-1-2x);
             background-size: 25px;
         }
 
         // Retina @3x device
         @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3/1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
-            background-image: url($watch-1-3x);
+            background-image: url($post-head-symbol-1-3x);
             background-size: 25px;
-        }
-    }
-
-    .post-header--ar {
-         // Non-retina device
-        background-image: url($watch-2);
-
-        // Retina @2x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 1.2), only screen and (min--moz-device-pixel-ratio: 1.2), only screen and (-o-min-device-pixel-ratio: 5/4), only screen and (min-device-pixel-ratio: 1.2), only screen and (min-resolution: 120dpi), only screen and (min-resolution: 1.2dppx) {
-            background-image: url($watch-2-2x);
-        }
-
-        // Retina @3x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3/1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
-            background-image: url($watch-2-3x);
         }
     }
 
     .post-header-title {
         margin-bottom: 5px;
         font-family: $title-font;
-        font-size: 18px;
+        font-size: 24px;
         font-weight: 500;
         text-transform: uppercase;
         letter-spacing: 1px;
@@ -75,6 +80,30 @@
         font-weight: normal;
         color: #444;
         letter-spacing: 1px;
+    }
+
+    .post-header-map {
+        margin-left: 15px;
+        flex-basis: auto;
+
+        .map-image {
+            width: 300px;
+            height: 200px;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    }
+
+    @media only screen and (max-width : 900px) {
+        .post-header-map {
+            margin-left: 0;
+            width: 100%;
+
+            .map-image {
+                width: 100%;
+            }
+        }
     }
 
     .post-image {
