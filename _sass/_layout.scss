@@ -48,10 +48,17 @@ header {
     padding-top: 50px; // 40px margin [has to be padding for sticky footer] + 10px for ribbon [positioned absolutely]
     padding-bottom: 10px;
     border-bottom: 1px solid $border-colour;
+    position: relative;
 
     a,
     a:hover {
         color: $text-colour;
+    }
+
+    .google-translate-button {
+        position: absolute;
+        top: 10px;
+        right: 0px;
     }
 }
 
