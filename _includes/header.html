@@ -2,10 +2,14 @@
     <a href="{{ site.baseurl }}/"><h1>{{ site.title }}</h1></a>
     <h2>{{ site.subtitle }}</h2>
 
-    <div id="google-translate-button"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'fr,it,pt'}, 'google-translate-button');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <!-- Google Translate -->
+    <div id="google-translate-button"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'fr,it,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google-translate-button');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         
 </header>
