@@ -49,6 +49,7 @@ header {
     padding-bottom: 10px;
     border-bottom: 1px solid $border-colour;
     position: relative;
+    background-color: red;
 
     a,
     a:hover {
@@ -57,8 +58,8 @@ header {
 
     #google-translate-button {
         position: absolute;
-        top: 20px;
-        right: 0px;
+        top: 30px;
+        right: 0;
     }
 }
 
