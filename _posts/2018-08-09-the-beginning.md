@@ -6,7 +6,7 @@ categories:
 location:
     names:
         - CDG Airport, Paris
-    zoom: 10
+    zoom: 8
 ---
 
 Today‘s the beginning of a new trip, a new journey through continents, people, and cultures.
