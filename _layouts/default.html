@@ -5,6 +5,12 @@
       <div id="ribbon"></div>
       <div id="wrap">
         {% include header.html %}
+        <div id="google-translate-button"></div>
+        <script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google-translate-button');
+}
+</script>
         {{ content }}
       </div>
       {% include footer.html %}
