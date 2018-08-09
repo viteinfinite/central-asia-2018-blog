@@ -13,7 +13,7 @@ Today‘s the beginning of a new trip, a new journey through continents, people,
 
 Today’s the beginning of more exciting moments of plane-hopping, photography, wandering, eating, early wake-ups.
 
-And, most of all, today’s the beginning of discovery, of countries and regions you might actually wonder wether they really exist today or they’re just memories of a faded past.
+And, most of all, today’s the beginning of discovery, of countries and regions you might actually wonder whether they really exist today or they’re just memories of a faded past.
 We’ll go through a segment of the Silk Road, leaving Paris for Beijing, then reaching Xinjiang, Kyrgyzstan and Uzbekistan.
 
 Today’s once again the beginning of something new. So, let’s begin.
