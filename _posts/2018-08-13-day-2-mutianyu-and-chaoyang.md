@@ -6,7 +6,7 @@ categories:
 location:
     names:
         - Mutianyu Great Wall
-        - Chaoyang
+        - Chaoyang, Beijing
     zoom: 11
 ---
 
