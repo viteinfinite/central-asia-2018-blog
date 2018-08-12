@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 2: Mutianyu and Chaoyang
+title:  Day 2 - Mutianyu and Chaoyang
 date:   2018-08-11 23:42:34
 categories: 
 location:
@@ -40,9 +40,6 @@ location:
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534110117.28812-5.jpeg" />
     
 </div>
-
-
-Saturday 11 - the great wall
 
 We wake up early this morning to go visit the great wall. As it's not close to the city, you need to get there either with a tour or with a private driver. We opt for the latter. It turns out to be a lucky move, as it takes nearly two hours to go to the point we chose. It's a part of the wall called Mutianyu and it's not one of the most visited. In theory, at least.
 
