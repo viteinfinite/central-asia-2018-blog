@@ -6,7 +6,7 @@ categories:
 location:
     names:
         - Beijing
-    zoom: 9
+    zoom: 7
 ---
 
 
