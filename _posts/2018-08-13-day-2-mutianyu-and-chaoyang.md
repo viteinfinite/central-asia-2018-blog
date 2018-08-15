@@ -7,7 +7,7 @@ location:
     names:
         - Mutianyu Great Wall
         - Chaoyang, Beijing
-    zoom: 11
+    zoom: 9
 ---
 
 <div class="post-image">
