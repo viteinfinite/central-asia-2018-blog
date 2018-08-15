@@ -6,13 +6,12 @@ categories:
 location:
     names:
         - Turpan
-    zoom: 11
+    zoom: 9
 ---
 
-
 <div class="post-image">
-    <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-0.jpeg" />
-    <p class="post-image-caption">Bomì bomì mai bomì</p>
+    <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-3.jpeg" />
+    <p class="post-image-caption">Stopping at the Hamì airport</p>
 </div>
 
 <div class="post-image">
@@ -26,11 +25,6 @@ location:
 </div>
 
 <div class="post-image">
-    <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-3.jpeg" />
-    <p class="post-image-caption">Stopping at the Hamì airport</p>
-</div>
-
-<div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-4.jpeg" />
     <p class="post-image-caption">Main Street of Old Jiaohe, with its temple in the background</p>
 </div>
@@ -38,6 +32,11 @@ location:
 <div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-5.jpeg" />
     
+</div>
+
+<div class="post-image">
+    <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534314027.67091-0.jpeg" />
+    <p class="post-image-caption">Bomì bomì mai bomì</p>
 </div>
 
 
@@ -50,7 +49,7 @@ Turpan welcomes us with a very heavy border security: along with another three f
 
 The guy appearing to be in charge of the police office kindly offers to escort us to the brand-new high-speed train station, where we can finally catch a taxi: we realize the entrance to the airport is actually blocked by the police forces and no vehicle is entering the area.
 
-On the road to the hotel we cannot but notice a police station every 2 kms or so, presided by lightly armed officers. Also, strangely enough, an impressive number of cars are prototypes, covered with mimetic sheets covering logos and details of the carrozzeriaXXX. We can recognize very well known brands of vehicles, and models which we haven’t seen on any European street yet.  
+On the road to the hotel we cannot but notice a police station every 2 kms or so, presided by lightly armed officers. Also, strangely enough, an impressive number of cars are prototypes, covered with mimetic sheets. We can recognize very well known brands of vehicles, and models which we haven’t seen on any European street yet.  
 
 The hotel, hidden behind a bigger and older one, is apparently brand new. The tenant doesn’t speak a word of English and struggles scanning our passports with the check-in app installed on his phone. He’s rarely met a foreign tourist but, today it’s his unlucky day: another French tourist, arrived  just before us, is waiting for his documents to be processed too. We wait a full hour until we can finally go to the room. 
 
