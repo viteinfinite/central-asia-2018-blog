@@ -6,7 +6,7 @@ categories:
 location:
     names:
         - Kashgar, Xinjiang, China
-    zoom: 6
+    zoom: 5
 ---
 
 <div class="post-image">

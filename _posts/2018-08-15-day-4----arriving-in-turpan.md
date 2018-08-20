@@ -6,7 +6,7 @@ categories:
 location:
     names:
         - Turpan
-    zoom: 7
+    zoom: 5
 ---
 
 <div class="post-image">

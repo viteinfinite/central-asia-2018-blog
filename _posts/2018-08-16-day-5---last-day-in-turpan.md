@@ -7,7 +7,7 @@ location:
     names:
         - Turpan, Xinjiang
         - Kashgar, Xinjiang
-    zoom: 6
+    zoom: 5
 ---
 <div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534433116.75981-1.jpeg" />
