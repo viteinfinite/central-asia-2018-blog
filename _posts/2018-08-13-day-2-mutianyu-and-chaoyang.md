@@ -7,7 +7,7 @@ location:
     names:
         - Mutianyu Great Wall Scenic Area Ticket Office
         - Chaoyang, Beijing
-    zoom: 8
+    zoom: 6
 ---
 
 <div class="post-image">
