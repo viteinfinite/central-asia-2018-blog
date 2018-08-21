@@ -17,12 +17,12 @@ location:
 
 <div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534824034.05722-1.jpeg" />
-    <p class="post-image-caption">Landscape before Sary Tash</p>
+    <p class="post-image-caption">The Pamir mountains before Sary Tash</p>
 </div>
 
 <div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534824034.05722-3.jpeg" />
-    <p class="post-image-caption">A cow herder with his traditional in Sary Tash</p>
+    <p class="post-image-caption">A Kyrgyz shepherd with his traditional hat in Sary Tash</p>
 </div>
 
 <div class="post-image">

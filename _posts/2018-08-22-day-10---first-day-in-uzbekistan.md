@@ -17,7 +17,7 @@ location:
 
 <div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1534879478.92542-4.jpeg" />
-    <p class="post-image-caption">First panorama from Uzbekistan</p>
+    <p class="post-image-caption">One of the many oasis entering in the Eastern side of Uzbekistan</p>
 </div>
 
 <div class="post-image">
