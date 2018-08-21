@@ -40,15 +40,13 @@ location:
     <p class="post-image-caption">The marriage</p>
 </div>
 
-Crossing the Chinese Border - Part 2
-
 So, we're finally in the Kyrgyzstan part of Irkeshtam.
-We walk some meters with all our luggage to get controlled by Kyrgyz officers. After that, the Italian group gets in a van, but the driver doesn't want to take us, although there is place available. The Kyrgyz officers call us a cab, but the price it proposes is ridiculous: 100$ to get us to Sary Tash, barely 50km away. We refuse and keep on walkong, considering the idea of hitchiking until Och, the city where we planned to spend the night.
+We walk some meters with all our luggage to get controlled by Kyrgyz officers. After that, the Italian group gets in a van, but the driver doesn't want to take us, although there is place available. The Kyrgyz officers call us a cab, but the price it proposes is ridiculous: 100$ to get us to Sary Tash, barely 50km away. We refuse and keep on walking, considering the idea of hitchiking until Och, the city where we planned to spend the night.
 We can count on 2 more people to share the taxi with: Wei and Simone, who are still with us since the first checkpoint.
 
-A group of 4/5 kyrgyz, unofficial cabs drivers, seeing us walking, stop us but the price they ask is still way too high, at least for the standards of the place. They first ask us 6000 soms, or around 90€, which is 22€ per person. For a 4 hour trip, that's not too bad, but in Central Asia, it's a major sum and we feel we're being treated as tourists. It's a long game: we say no to the guys, they drive away, then come back and propose a cheaper price.
+A group of 4/5 kyrgyz, unofficial cab drivers, seeing us walking, stop us but the price they ask is still way too high, at least for the standards of the place. They first ask us 6000 soms, or around 90€, which is 22€ per person. For a 4 hour trip, that's not too bad, but in Central Asia, it's a major sum and we feel we're being treated as tourists. It's a long game: we say no to the guys, they drive away, then come back and propose a cheaper price.
 
-At some moment, a white minivan stops by and propose a way cheaper price: 3000 soms. We're about to accept, when the first group approaches once more and forces the minivan not to accept the deal. 
+At some moment, a white minivan stops by and proposes a way cheaper price: 3000 soms. We're about to accept, when the first group of drivers approaches once more and forces the minivan not to accept the deal. 
 
 We then see two trucks coming from the border and decide to ask them to take us to the closest city, if not to Och. Our two new friends take the first truck and we take the other one, but some meters later another control is waiting for us and we have to quit our ride. After the passport control, we're reunited with our travel companions and - of course - with the group of Kyrgyz drivers! The negociations restart and, upset for the missed deal with the minivan, we convince them to drop to 2000 soms (about 30 euros, or 7,5 euros/ person), which is the best deal we can possible achieve. 
 
@@ -58,12 +56,12 @@ At some point we arrive in Sary Tash, the first village on the road to Osh, afte
 
 From the road, every now and then, we can see the beautiful yurts of the local nomads, living of herding with their respective families, at times wearing their traditional costumes.
 
-During our journey to Osh, we stop along the road to have a hot meal and invite him to have dinner with us. He shows us a good local restaurant and we eat there. A marriage party is undergoing in the place, with young couples well dressed for the occasion, dancing on Kyrgyz pop music. We are in the middle of nowhere, and we are struck by the kindness of the locals, and moved by their genuine and simple happiness.
-If today we were home, and asked for a meal in a restaurant, in our walking shoes and after a 14-hour journey, we would have an hard time finding a place accepting us. Not here: we're asked where we come from and we're even invited dancing with the group - which, at least for decency, we cannot accept!
+During our journey to Och, we stop along the road to have a hot meal and invite Albert to have dinner with us. He shows us a good local restaurant and we eat there. A marriage party is undergoing in the place, with young couples well dressed for the occasion, dancing on Kyrgyz pop music. We are in the middle of nowhere, and we are struck by the kindness of the locals, and moved by their genuine and simple happiness.
+If today we were home, and asked for a meal in a restaurant, in our walking shoes and after a 14-hour journey, we would have a hard time finding a place accepting us. Not here: we're asked where we come from and we're even invited dancing with the group - which, at least for decency, we cannot accept!
 
 We order a soup with dumplings which is simply delicious. The bread is also great! We end up paying 132 som per person, which includes the share for Albert: it's not even 2€. 
 
-We eat and take back the route to Och. An hour and a half later, we are at our hotel, safe and sound, not before leaving a well deserved tip to Albert. It's time to leave our Italian and Chinese friends and to enter the room we'll be staying in for the next two nights.
+We eat and take back the route to Och. An hour and a half later, we are at our hotel, safe and sound, not before leaving a well deserved tip to Albert. It's time to leave our Italian and Chinese friends and to enter our room.
 It's been an awesome experience, across wonderful routes and landscapes. In a way, we feel blessed for having been able to get such an intense experience of a World that's barely known outside this remote area of the globe.
-But now, we can finally get some sleep.
+Now, we can finally get some sleep.
 
