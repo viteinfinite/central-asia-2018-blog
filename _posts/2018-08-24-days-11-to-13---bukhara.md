@@ -45,6 +45,11 @@ location:
 </div>
 
 <div class="post-image">
+    <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1535089136.34487-0.jpeg" />
+    <p class="post-image-caption">Façade of the Poy Kalon Mosque</p>
+</div>
+
+<div class="post-image">
     <img src="https://s3.eu-west-3.amazonaws.com/com.simonecivetta.centralasia2018/1535087754.82873-3.jpeg" />
     <p class="post-image-caption">View from the Poy Kalon Mosque</p>
 </div>
